@@ -6,7 +6,7 @@
  ![](https://img.shields.io/badge/CSS-3-blue)
  ![](https://img.shields.io/badge/LCO-Hitesh%20Sir-red)
 
-Live Link:- []()
+Live Link:- [Click here!](https://amarjeet-calculator-app.netlify.app/)
 
 Picture of my project:-
 ![](Screenshot%20(248).png)
